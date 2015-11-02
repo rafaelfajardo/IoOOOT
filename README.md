@@ -1,4 +1,5 @@
 # IoOOOT
 Internet of Object Oriented Ontology Things
-[essay]
-[sofa]
+
+[essay](#essay)
+[sofa](#sofa)
